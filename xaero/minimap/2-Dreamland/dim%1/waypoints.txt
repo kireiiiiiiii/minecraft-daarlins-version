@@ -1,0 +1,5 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:FARM CITY!!!:F:92:161:1362:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Unlooted End city:U:-1556:83:2282:5:false:0:gui.xaero_default:false:0:1:false

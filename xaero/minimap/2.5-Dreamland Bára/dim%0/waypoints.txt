@@ -1,0 +1,17 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Ship:S:2669:0:-1558:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Poral room 2:P:-4859:-16:532:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Villager:V:-2958:65:736:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Raid farm:R:-2245:62:974:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pillager Outpost:P:-2345:64:777:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:BASE §§3:B:-124:63:-25:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mine entry:M:-128:56:-6:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Portal:P:-1710:-36:125:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fortress:F:-1715:-27:123:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Coral ocean:E:-3196:42:304:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mine entry:M:460:67:-266:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Slime Farm:S:112:63:301:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Taiga portal:T:1138:68:-1516:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bamboo Portal:B:3797:109:6352:2:false:0:gui.xaero_default:false:0:0:false
