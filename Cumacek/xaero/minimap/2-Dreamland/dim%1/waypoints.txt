@@ -1,0 +1,5 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Gate and city:G:1331:171:-3427:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gate:G:564:65:-2947:1:false:0:gui.xaero_default:false:0:0:false

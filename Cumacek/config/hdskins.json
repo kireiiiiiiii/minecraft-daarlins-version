@@ -1,0 +1,22 @@
+{
+  "experiments": {
+    // When enabled, player skins will be requested from the server in batches (experimental)
+    "usebatchloading": false
+  },
+  "root": {
+    "lastchosenfile": "/Users/matejstastny/Downloads/BaraCumacek.png"
+  },
+  "gui": {
+    // Whether to show the hd skins uploader button on the main menu
+    // AUTO (default) - only show when Mod Menu is not installed
+    // ON - always show
+    // OFF - never show
+    "pantsbuttonvisibility": "AUTO"
+  },
+  "filesystem": {
+    // When enable, will always use the native dialogue for opening and saving files
+    "usenativefilechooser": false,
+    // When enabled, will use the native dialogue for opening and saving files only when running inside a sandboxed environment (flatpaks),
+    "enablesandboxingcheck": true
+  }
+}

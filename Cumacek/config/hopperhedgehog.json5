@@ -1,0 +1,8 @@
+{
+	"HopperFunctions": true,
+	"ItemDispenserFunctions": false,
+	"TransferSpeed": 16,
+	"InputAmount": 1,
+	"OutputAmount": 1,
+	"DispenseAmount": 1
+}

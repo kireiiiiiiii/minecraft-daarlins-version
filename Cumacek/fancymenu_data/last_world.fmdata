@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = /Users/matejstastny/Library/Application Support/ModrinthApp/profiles/Daarlin’s version/saves/2-dreamland
+}
+
